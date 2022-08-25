@@ -1,0 +1,54 @@
+body {
+  background-color: #A82914;
+}
+
+.titulo-principal {
+  text-align: center;
+  color: #4EF5AA;
+}
+
+#estoque {
+  height: 350px;
+  border: 15px solid #FFFFFF;
+}
+
+p {
+  text-align: justify;
+  font-size: 18px;
+  color: #71FFBE;
+}
+
+.titulo-listas {
+  color:#4EF5AA;
+  border: 5px dotted #4EF5AA;
+  text-align: center;
+  font-size: 24px;
+  padding: 4px;
+  display: inline-block;
+  width:48%;
+  margin-bottom: 0px;
+}
+
+.itens {
+  color:#4EF5AA;
+  font-size: 18px;
+}
+
+.pano-prato {
+  background-color: #71FFBE;
+}
+
+.pano-prato p {
+  color:#A82914;
+}
+
+.listas {
+  display: inline-block;
+  border-left: 5px dotted #4EF5AA;
+  border-right:5px dotted #4EF5AA;
+  border-bottom: 5px dotted #4EF5AA;
+  width: 45.5%;
+  vertical-align: top;
+  margin-top: 0px;
+  height: 105px;
+}
